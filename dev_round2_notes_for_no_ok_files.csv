@@ -1,0 +1,729 @@
+﻿utt_id,kw,keyword,classification,speaker_id,whisper_text,note,timestamp,after_second_review
+00988ac6aae52fe50b06e8aa9c8a031b,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:08:27,
+013f326edcf0b27c578161191248e134,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:08:35,
+02928c905a9d6b3321b42f9da62f05e4,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:08:37,
+05ce7991c9f536560b8794602942456c,kw0,Hi Xiaowen,bad,,有没有黑小问。,hey not hi,2026-09-01 11:08:38,
+07405c3e8c60b32195698c7f0f39709b,kw0,Hi Xiaowen,bad,,请问问问。,extreme noise - word audible,2026-09-01 11:08:44,
+08d894ad30751a1c814ee67e46edfa56,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:08:46,
+09642693ca2cb04b216b9600f1bb3965,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:08:49,
+097f3a2e851f50745a67df6302c944bb,kw0,Hi Xiaowen,bad,,"您不错,您来说我说的。",inaudible utterance,2026-09-01 11:08:52,
+1174f70f5221693fc5ede1891fe57aad,kw0,Hi Xiaowen,bad,,"嗨小问,好多朋友。",hey not hi,2026-09-01 11:08:54,
+1734fb2abf63ccd7bdc76182b24729e3,kw0,Hi Xiaowen,bad,,"请问,请问,请问,请问。",hey not hi,2026-09-01 11:08:56,
+21af65bc09fd59c75e0c1eeb7eba4995,kw0,Hi Xiaowen,bad,,谢谢小阿公。,hey not hi,2026-09-01 11:08:59,
+23aabbfc52cf001f924fb7cfcac16f3a,kw0,Hi Xiaowen,bad,,,incomplete utterance,2026-09-01 11:09:07,
+265536f607ec5bacbd3c7cca81e6dfd4,kw0,Hi Xiaowen,bad,,嗨小问。我是。,hey not hi,2026-09-01 11:09:10,
+2f5617486cc049bb321b2dd1546a4022,kw0,Hi Xiaowen,bad,,嗨小问中东。,hey not hi,2026-09-01 11:09:13,
+30b38cbd442e638587d943069d84ff61,kw0,Hi Xiaowen,bad,,,incomplete utterance,2026-09-01 11:09:17,
+423716c55396c6ad3796a37a28142bc5,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:09:19,
+45561f2d039fc6391e4022f6a9a0c57f,kw0,Hi Xiaowen,bad,,,inaudible utterance,2026-09-01 11:09:29,
+4b7ae867bc1b855c84fd3f332b39c5e8,kw0,Hi Xiaowen,bad,,嗨小问爸爸。,incomplete utterance,2026-09-01 11:09:33,
+4d647c244c07598e98fef5f4afbb6251,kw0,Hi Xiaowen,bad,,嗨小问。好吗?,hey not hi,2026-09-01 11:09:35,
+54ccd676d631e501b2e6bad89aa34012,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:09:38,
+567a7a3ecc9e662320b004bee422b784,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:09:40,
+59464f5958e9025309634d44891d7f72,kw0,Hi Xiaowen,bad,,这一小问。,hey not hi,2026-09-01 11:09:43,
+5b1903aabd325d599174e6bea0df06b1,kw0,Hi Xiaowen,bad,,昨天太小问了。,hey not hi,2026-09-01 11:09:45,
+5d476a8566081e594231ff264f3992cd,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:09:47,
+62142fd5ec7c7f49fc8c31dd554e060f,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:09:49,
+62150ea6f03edc9c3cd0f51acaee3ca7,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:09:52,
+63b1a081191a426bbaab40815e73db3f,kw0,Hi Xiaowen,bad,,"德国这一条人,生活。",extreme noise - word audible,2026-09-01 11:09:55,
+66a644b2b6ede4dbf8e29a92db38d09e,kw0,Hi Xiaowen,bad,,嘿小乐。,hey not hi,2026-09-01 11:09:57,
+766866d81b55e64b2f14498f2e8425c9,kw0,Hi Xiaowen,bad,,脚不怕转体的活出。,inaudible utterance,2026-09-01 11:10:03,
+7cb183686b2c53efcd608c4b6f81bb50,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:06,
+7da5dcdfe1be26c79f39e7deb2113d45,kw0,Hi Xiaowen,bad,,开酒问。,hey not hi,2026-09-01 11:10:08,
+7f2720107b182cddab841bae0cdd86aa,kw0,Hi Xiaowen,bad,,你怎么知道我都在?,hey not hi,2026-09-01 11:10:10,
+7fd0d5f4e4fdf8f5424cd381527be014,kw0,Hi Xiaowen,bad,,我认为你。,hey not hi,2026-09-01 11:10:12,
+803dd3277dce33ff1369183fcc46d882,kw0,Hi Xiaowen,bad,,好问。,incomplete utterance,2026-09-01 11:10:13,
+817f326f75ace568e8dc665b78226bdc,kw0,Hi Xiaowen,bad,,这一小问。,hey not hi,2026-09-01 11:10:16,
+82230d72b3347d0a9abeafa316490722,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:18,
+86d74a52aa16a6db84c38e77a2442be7,kw0,Hi Xiaowen,bad,,太好了。,extreme noise - word audible,2026-09-01 11:10:22,
+87e6ab875dc8e87b54cf227ad3fc335b,kw0,Hi Xiaowen,bad,,嗨小问。你好吗。,hey not hi,2026-09-01 11:10:23,
+89ebf6dfb8a30bc63eb667c17cd8b06e,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:25,
+8e371f21c14bc012ae5d6766d10e2679,kw0,Hi Xiaowen,bad,,嗨小乐。,hey not hi,2026-09-01 11:10:28,
+8ee8d76d2002a8dfdef3f52614356e91,kw0,Hi Xiaowen,bad,,太想问你一个。,hey not hi,2026-09-01 11:10:30,
+9758f7b5af29116edbef19502c1ce624,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:32,
+9862100102920351a0fc8b1a05da58db,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:35,
+9abc58397076ff2b8cab60654dc6cd26,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:37,
+9f0940dc54441e8e3c45f121a48a5c6a,kw0,Hi Xiaowen,bad,,,inaudible utterance,2026-09-01 11:10:40,
+a0ad896c6739d1665e49107eb60c40e4,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:42,
+a0be2afd57b9a18f582c92f144ed57d0,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:44,
+a5b2e1cd3aa6b4e5a5848f250c83661b,kw0,Hi Xiaowen,bad,,请要问。,hey not hi,2026-09-01 11:10:47,
+a761bf234223226642902344ae73fa41,kw0,Hi Xiaowen,bad,,你开小问。,extreme noise - word audible,2026-09-01 11:10:50,
+ab2d601edf1034fe842b98c16d7581ba,kw0,Hi Xiaowen,bad,,这一道类。,hey not hi,2026-09-01 11:10:53,
+b07fa5a9b0b55a5132abe41ea6ed73ba,kw0,Hi Xiaowen,bad,,我认识你。,hey not hi,2026-09-01 11:10:57,
+c6770df95c347d5466f7a4836af97da1,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:10:59,
+d23ad369374ff8c57cc0ae8aff30c1e6,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:11:02,
+f1e197a49a638dadfbbec7e048cd91f9,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:11:04,
+fa17025fb6b5ff9b4866a41edf2ea132,kw0,Hi Xiaowen,bad,,,hey not hi,2026-09-01 11:11:07,
+febb5d828ecbf1545b6cd13e46c3c83a,kw0,Hi Xiaowen,bad,,,inaudible utterance,2026-09-01 11:11:09,
+04efd045eba3c1b5d67f24f8ef4d928f,kw1,Nihao Wenwen,bad,,我问问问。,incomplete utterance,2026-09-01 11:11:22,
+3b901bb54471a1f06374811322767747,kw1,Nihao Wenwen,bad,,,inaudible utterance,2026-09-01 11:11:26,
+45cf3d7b66f2503a8070e81e7286cfa5,kw1,Nihao Wenwen,bad,,我刚才在那儿哒了。,incomplete utterance,2026-09-01 11:11:29,
+475781d8e07b24a06f8a82bbae4b8d4c,kw1,Nihao Wenwen,bad,,,incomplete utterance,2026-09-01 11:11:30,
+49d27876b65c7f6e5d4a9d7bfecf2a3e,kw1,Nihao Wenwen,bad,,,extreme noise - word audible,2026-09-01 11:11:37,
+4a9bf02b2bb87174732dd0a8583daa72,kw1,Nihao Wenwen,bad,,,inaudible utterance,2026-09-01 11:11:39,
+60d6bef453f4b3f6ba9c12581647cfbf,kw1,Nihao Wenwen,bad,,,ok,2026-09-01 11:11:50,ok
+61512b4001c36ce4baff8f04f760872b,kw1,Nihao Wenwen,bad,,来来来。嗯。,incomplete utterance,2026-09-01 11:11:52,
+6d339c11ca36ab1d846adf58cfc03e09,kw1,Nihao Wenwen,bad,,,extreme noise - word audible,2026-09-01 11:11:55,
+6dea6a805b8b8bc6cbd59d0d1646de74,kw1,Nihao Wenwen,bad,,,inaudible utterance,2026-09-01 11:11:59,
+6ebfdd646497a2a67eb6d56efb584feb,kw1,Nihao Wenwen,bad,,我爱你。,incomplete utterance,2026-09-01 11:12:00,
+6fc41b5e6948e70a0883071097946248,kw1,Nihao Wenwen,bad,,,incomplete utterance,2026-09-01 11:12:02,
+742694e99603daeda3932e2d303a61f9,kw1,Nihao Wenwen,bad,,,hard,2026-09-01 11:12:10,hard
+9d993c35d7e2f94f02314b2843b355a6,kw1,Nihao Wenwen,bad,,,incomplete utterance,2026-09-01 11:12:12,
+a8c04c2223217608f162ce6f9607faf9,kw1,Nihao Wenwen,bad,,啦啦啦,incomplete utterance,2026-09-01 11:12:14,
+ab8d5a26c0c66994211b1108cbc679c5,kw1,Nihao Wenwen,bad,,,extreme noise - word audible,2026-09-01 11:12:18,
+b31f64367638f36c2c12e014eddb3851,kw1,Nihao Wenwen,bad,,嗨小问。,incomplete utterance,2026-09-01 11:12:21,
+b434e2ffd91afe005929dc954c1f64f2,kw1,Nihao Wenwen,bad,,,incomplete utterance,2026-09-01 11:12:23,
+0033a31e4675cbbc4f78c51d3f20e300,kw0,Hi Xiaowen,very_hard,,,inaudible utterance,2026-09-01 11:12:28,
+019ba918033c862e3c7df9d4dd0512a4,kw0,Hi Xiaowen,very_hard,,,inaudible utterance,2026-09-01 11:12:30,
+01af89d478bff473940bc9bd57e06a95,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:12:33,
+048265efe79caec28e21888d48515da6,kw0,Hi Xiaowen,very_hard,,请安排到门。,hard,2026-09-01 11:12:36,hard
+04908f808722d78823a1fe1b74e9e315,kw0,Hi Xiaowen,very_hard,,好问。,hard,2026-09-01 11:12:39,hard
+04aea1f952047b10c28d5069b85a8581,kw0,Hi Xiaowen,very_hard,,"嗨,我问。",hard,2026-09-01 11:12:42,hard
+056fa39c4610f8e07fa931d48e649773,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:12:50,
+05d14cc5aad59ace4e3d8b50a7dd3171,kw0,Hi Xiaowen,very_hard,,你们看这些小微妄教我。,extreme noise - word audible,2026-09-01 11:12:59,
+09de533cec65e6bcf79d498575c8b6a6,kw0,Hi Xiaowen,very_hard,,请问问。,inaudible utterance,2026-09-01 11:13:01,
+0ac00b4f2c93585b9069a9f1b09fade3,kw0,Hi Xiaowen,very_hard,,,ok,2026-09-01 11:13:03,ok
+0d707e5e9154b11ff22bb711e2fe899a,kw0,Hi Xiaowen,very_hard,,"第2条,那是第1条。",ok,2026-09-01 11:13:06,ok
+101b608fb9f07e8464871a5f83f01300,kw0,Hi Xiaowen,very_hard,,,hey not hi,2026-09-01 11:13:08,
+101f0e7ec1fc14e1ccc69a870b43376e,kw0,Hi Xiaowen,very_hard,,"我说,你怎么说,你怎么说。",inaudible utterance,2026-09-01 11:13:10,
+106b3317fd8f654d28d7060992ee54fe,kw0,Hi Xiaowen,very_hard,,,inaudible utterance,2026-09-01 11:13:13,
+10936dac28fbb580971e13a134da3ce3,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:13:15,
+1172568698c77eee4c5f87d202058da4,kw0,Hi Xiaowen,very_hard,,爱小问问。,extreme noise - word audible,2026-09-01 11:13:20,
+1187bbc07743800d5c30b881ca7bf634,kw0,Hi Xiaowen,very_hard,,欢迎来到这里。,hard,2026-09-01 11:13:22,hard
+126a361da5f5aa72ec5c35e0d44970a0,kw0,Hi Xiaowen,very_hard,,你不要别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别别,extreme noise - word audible,2026-09-01 11:13:24,
+13b035b842172f4128871526b6a3d246,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:13:26,
+14407d364328cd04a669f1bd1d496c1f,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:13:29,
+14450ee18b2add329db447ae572d76bd,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:13:31,hard
+14492c922a2221a10c9066688bc630fa,kw0,Hi Xiaowen,very_hard,,"我是请太小问,这不气氛库。",extreme noise - word audible,2026-09-01 11:13:34,
+168922b47f5b245755c3b6cb37999f8c,kw0,Hi Xiaowen,very_hard,,,hey not hi,2026-09-01 11:13:37,
+1ab08320e240ae9a1ec5365430024f0a,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:13:41,hard
+1c1ad054f131f2317190e357af7be7c2,kw0,Hi Xiaowen,very_hard,,嗨小乐。,hard,2026-09-01 11:13:43,hard
+1cf1ab6533f844084e3588525faa93a9,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:13:45,hard
+1fa94ca14d37cf0d8b807c8e24f1821d,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:13:48,hard
+2322027c8d076eb9dda345f5695d828f,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:13:51,
+24cd7cff84bdb843a0318c0db4f4c4e5,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:13:54,
+24d613e3bb2bcacc412b0325c1379154,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:13:56,
+255c80ffa058093e514d0c4f7638ae3e,kw0,Hi Xiaowen,very_hard,,我还以小了。,hard,2026-09-01 11:13:59,hard
+256111fc9cdc9f7be56bf0f6394f38ee,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:14:01,hard
+25c45f68748dff61222c49cc23c3dc0d,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:14:03,hard
+25d7d843b7a50379b478b22606eb1180,kw0,Hi Xiaowen,very_hard,,"刚开始来的冒险,我还要做到。",extreme noise - word audible,2026-09-01 11:14:05,
+2677a210368726b91433eb1a0ace2686,kw0,Hi Xiaowen,very_hard,,啊啊啊啊啊啊啊。,hard,2026-09-01 11:14:07,hard
+28793a4c69b162828343b2f804c746b0,kw0,Hi Xiaowen,very_hard,,"我们再有电话,把大伙收上。",hard,2026-09-01 11:14:11,hard
+2a5be3e393f07365eceb471a26c9b4b5,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:14:15,
+2cc01ed120be4df1006dc8776472a965,kw0,Hi Xiaowen,very_hard,,,inaudible utterance,2026-09-01 11:14:20,
+2f9441db78d25b6ba904b7024735eb0f,kw0,Hi Xiaowen,very_hard,,你爱上我的问题。,hard,2026-09-01 11:14:23,hard
+322655f902dce110045bdefd37bfd4ee,kw0,Hi Xiaowen,very_hard,,"您好,您好。",extreme noise - word audible,2026-09-01 11:14:25,
+353969e7183e5b1710d9954f6f4ef9a2,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:14:28,
+35bad1d93e1ef41870b15255266dec3d,kw0,Hi Xiaowen,very_hard,,"我认为领导,我认为领导,我认为领导,我认为领导。",extreme noise - word audible,2026-09-01 11:14:30,
+35cb7ad4f2b77172d86513e680e27027,kw0,Hi Xiaowen,very_hard,,,inaudible utterance,2026-09-01 11:14:33,
+35ed9d012bfa6ff9b4823db00fc735a3,kw0,Hi Xiaowen,very_hard,,我给你来一会儿。,hard,2026-09-01 11:14:36,hard
+365c2be02df48dada2d98caf91a377af,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:14:38,hard
+381cc4d3c3128873e3c1b4ea461a4839,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:14:40,hard
+38cfcc28f5f06b95ddeb7b176cb76d25,kw0,Hi Xiaowen,very_hard,,"请问问, 请问问, 请问问。",inaudible utterance,2026-09-01 11:14:42,
+3b5276ecf0374db0a2e6b8269e3d0884,kw0,Hi Xiaowen,very_hard,,你怎么会在这儿?,extreme noise - word audible,2026-09-01 11:14:44,
+3c8470a51f57c0f3f4b2f8121f4f8c11,kw0,Hi Xiaowen,very_hard,,嗨小雨。,extreme noise - word audible,2026-09-01 11:14:46,
+3fad8e62c8016800beb51451265df7e3,kw0,Hi Xiaowen,very_hard,,你一定有点小问。,hard,2026-09-01 11:14:49,hard
+41828771d52debdd2288696e8a164988,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:14:51,
+4242fbaf879dbb1fc221d1f3875c9abe,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:14:57,hard
+42de3cca05863f01dc1ffe0ad8cd898a,kw0,Hi Xiaowen,very_hard,,是哪一边? 还小问。,hard,2026-09-01 11:14:59,hard
+44d4a9ff5adb8172efb7117ecbf54d6b,kw0,Hi Xiaowen,very_hard,,"1200岁,我来说一句。",hard,2026-09-01 11:15:02,hard
+44de7fad116588529246dbb618a200b8,kw0,Hi Xiaowen,very_hard,,这是毛泰小问。,hard,2026-09-01 11:15:05,hard
+4571d6d6ef97ab612e575dc6663d3912,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:15:08,hard
+45ca32c91a7c40b450c3927c401eee83,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:11,
+46874d821e17fc1a1de19e87c3cbfed2,kw0,Hi Xiaowen,very_hard,,"来吧,你说怎么不误会。",extreme noise - word audible,2026-09-01 11:15:13,
+4702ffa8c5dc358195c9e3dfffe6b5c2,kw0,Hi Xiaowen,very_hard,,看小乐。,extreme noise - word audible,2026-09-01 11:15:15,
+49186bdf404483bf2e68b53492656560,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:17,
+50048db44c906ddde8ab2e25c5f1d54f,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:15:19,hard
+53fc1692e099d2bbcb0a93047554231a,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:15:21,hard
+542d4266bc567877e588369f7a42d47f,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:24,
+562d1f058252280bff806cce9475e7ef,kw0,Hi Xiaowen,very_hard,,我来说吧。,extreme noise - word audible,2026-09-01 11:15:26,
+56eb4df66537b2d430fceff552475924,kw0,Hi Xiaowen,very_hard,,请问问。,hard,2026-09-01 11:15:30,hard
+57dddbe946ea26e063ecff0d39cf4f66,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:15:33,hard
+580f760cb3f93066a77bcecc1d1dd4c6,kw0,Hi Xiaowen,very_hard,,"我会给你拍过拍一下,我也会给你拍过拍一下。",hard,2026-09-01 11:15:36,hard
+5815242cc381b662d232e867f785b064,kw0,Hi Xiaowen,very_hard,,看来小问你。,extreme noise - word audible,2026-09-01 11:15:38,
+5a920ba0f6a86e6824afde313d0be12c,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:40,
+5ab134cee58ce6020b554e1dc3891258,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:15:42,hard
+5c1011fb55cf93a66040bac43ad3c4e3,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:45,
+5c16d133a16f903780d2a39a9ea8dce7,kw0,Hi Xiaowen,very_hard,,怎么说这个小问啊?,hard,2026-09-01 11:15:47,hard
+5d4bbdcbc359cb3da488d94c4b183a9f,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:49,
+5f00011265bfea44e59dc7b80f040de1,kw0,Hi Xiaowen,very_hard,,"哎呀,小问,小问,小问,小问,小问。",extreme noise - word audible,2026-09-01 11:15:51,
+5f5e06665293d9b20e2d542e0402e5bf,kw0,Hi Xiaowen,very_hard,,嗨小乐。,hard,2026-09-01 11:15:53,hard
+6289c4b8b80f26072234809741cd112e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:15:55,
+62bcbd1b347a8db89089b942cc16bb0d,kw0,Hi Xiaowen,very_hard,,"你认识他,请问你认识他。",extreme noise - word audible,2026-09-01 11:15:57,
+6360c860e08c5af99a6b8713a6162724,kw0,Hi Xiaowen,very_hard,,嗨。,hard,2026-09-01 11:15:59,hard
+636672012e412c1253f5956ef9a0171f,kw0,Hi Xiaowen,very_hard,,"嗯,小问就站在我上。",inaudible utterance,2026-09-01 11:16:02,
+642e5607e4e53093fe416612ce6fb47f,kw0,Hi Xiaowen,very_hard,,三小的。,hard,2026-09-01 11:16:05,hard
+64598513323b2285cce6de8810a4249a,kw0,Hi Xiaowen,very_hard,,嗨小问。准备了。,hey not hi,2026-09-01 11:16:10,
+66ade2f0e00a3f853d4a1068960666ea,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:16:12,hard
+6830558e182772dd03ed49b8cffd50c9,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:15,
+6f4792571971b1e1d523b2a82f476924,kw0,Hi Xiaowen,very_hard,,那是我。,extreme noise - word audible,2026-09-01 11:16:17,
+715e73a027d53b764dd655d9d90db5c5,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:19,
+7190554e208511bd5f2501ab0aed8945,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:21,
+741149f28b564662b8e98ce75c0f43a6,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:16:23,hard
+74310d07848288d828f7be73eb3ba0d4,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:16:25,hard
+7508e39f99cf73168e5c100a1a4db508,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:27,
+755a7edb0ac667c9667a0d7de107aaaa,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:30,
+75e13e89d46cfe504fcccb74aa5f476e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:32,
+761e1ab7f7bf7c5b0814a453b5521d9e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:34,
+7685e630b3c44df259463e108968ed77,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:37,
+77366603af5012aa9a1e941126f543ae,kw0,Hi Xiaowen,very_hard,,太小了。,extreme noise - word audible,2026-09-01 11:16:39,
+793b7faa91d2d6948dc82ebbe1ddd8eb,kw0,Hi Xiaowen,very_hard,,太久了。,extreme noise - word audible,2026-09-01 11:16:41,
+7a2b0aa077b7ee43982f087a70f1fce4,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:16:45,hard
+7bf0ea5dbb4896d7cad16d5312186954,kw0,Hi Xiaowen,very_hard,,我想问。,extreme noise - word audible,2026-09-01 11:16:48,
+7d181eb7d74d5b4aa23643169b6e3556,kw0,Hi Xiaowen,very_hard,,那你真像人?那你小问。,hey not hi,2026-09-01 11:16:51,
+7faf46662eb7febe4c74674418ae4e50,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:16:54,hard
+81379197c301c87b54ac38b66d417da7,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:16:57,
+8218ede9eec594a9ea60d6cd114840b4,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:00,
+833356bd8d18aec8dc9365a672048add,kw0,Hi Xiaowen,very_hard,,这八号电话中间的中文是什么?,extreme noise - word audible,2026-09-01 11:17:04,
+834fc37cd170133ac3282ce7a016cc16,kw0,Hi Xiaowen,very_hard,,你怎么知道我。,inaudible utterance,2026-09-01 11:17:07,
+855efa00b85de573ac8878017cb26023,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:17:09,hard
+88b7321e972648a3293c208d71e01fef,kw0,Hi Xiaowen,very_hard,,好问问问您。,extreme noise - word audible,2026-09-01 11:17:12,
+8907abd7ca88f7d0306ca0be214e1e85,kw0,Hi Xiaowen,very_hard,,那是就是没有活儿的好家。,extreme noise - word audible,2026-09-01 11:17:13,
+8a306ba7acfb0c3b438f9e33a77c9d0c,kw0,Hi Xiaowen,very_hard,,我是太小问人。,extreme noise - word audible,2026-09-01 11:17:16,
+8a3827fed5e17be93e1ffdd219a50758,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:17:18,hard
+8aec6a948ad1da53df44b6e922b9e9be,kw0,Hi Xiaowen,very_hard,,我刚才说句。,extreme noise - word audible,2026-09-01 11:17:20,
+8b30a28666beba4f7ca0b59a13496cec,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:17:23,hard
+8c02afdf6238bc9a6bb0c994be5c048a,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:25,
+8d4677d5ad625db0969108e673ee62b8,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:17:26,hard
+8d4e358b1c7a1a6770b8ec3964c56123,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:17:29,hard
+8de861aaa38fcd462c274e611e130c1e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:32,
+8eb7e438f917439bce3207643cee8bea,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:17:35,hard
+8f4a8faf9a9ce5db24ebe10891060d6a,kw0,Hi Xiaowen,very_hard,,"好,好,好。",extreme noise - word audible,2026-09-01 11:17:37,
+8f5c7abeeabc3b2db6fe2ba0a9ef173f,kw0,Hi Xiaowen,very_hard,,好问问。,extreme noise - word audible,2026-09-01 11:17:39,
+8fa0fde7254892191cbdd532e4777278,kw0,Hi Xiaowen,very_hard,,嗨。,extreme noise - word audible,2026-09-01 11:17:41,
+8ffda3d2bf64007763303165ed1a8045,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:43,
+901d0520eda19d0a91b78bc7332b3db7,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:45,
+923cbea4b2e4d5f5faf1382d6439f7a2,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:47,
+92e5a252cecf7ba70e4f8f8f6d89e568,kw0,Hi Xiaowen,very_hard,,"请进来,请进来。",extreme noise - word audible,2026-09-01 11:17:49,
+935f4c40a47f93172957d21b13975cbc,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:17:51,
+97e1944aa3761cf92eadc48087f187e5,kw0,Hi Xiaowen,very_hard,,好问问。,extreme noise - word audible,2026-09-01 11:17:53,
+98c6cad49ea62ec92fd2fdbe2a9c85a9,kw0,Hi Xiaowen,very_hard,,请吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵吵,inaudible utterance,2026-09-01 11:17:56,
+9dde6af6299fe22abd1c537689b16a69,kw0,Hi Xiaowen,very_hard,,我说你不想你。,extreme noise - word audible,2026-09-01 11:17:58,
+9e343e40195b601dc54bab3eb1206e78,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:18:01,
+9e8ebedf4b4e79aa19662b2420f1d666,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:18:03,hard
+9ee032bcca835fb55bc82b10800d8a06,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:18:05,
+9f3925ecf69be1a3b0e3f38c67a538a9,kw0,Hi Xiaowen,very_hard,,来到吧。,extreme noise - word audible,2026-09-01 11:18:08,
+9f4d55addd590c284cfa8578ea45e5eb,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:18:10,hard
+a2d4757dac8419e9841179ee78ea11b3,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:18:13,hard
+a3950277e14377471212d11da28800c7,kw0,Hi Xiaowen,very_hard,,请问问问。,hard,2026-09-01 11:18:16,hard
+a992ed0ab6d5a7807f4b64a7b3d85f9a,kw0,Hi Xiaowen,very_hard,,我没奶酸过呀。,extreme noise - word audible,2026-09-01 11:18:19,
+aa08b213bec12e354d7c699c22926a80,kw0,Hi Xiaowen,very_hard,,"女各位看,我们想像一个影片。",extreme noise - word audible,2026-09-01 11:18:21,
+aa0e6763a44cb32e863fe552a31f1438,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:18:24,
+adfdf186c0afeff80fe8c0e6b6d1af36,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:18:27,
+ae8ef4f488eee2219adc549a01f2d95e,kw0,Hi Xiaowen,very_hard,,"你不睡了,你不睡了?",extreme noise - word audible,2026-09-01 11:18:29,
+af85236104ab58d41c886a7e78988992,kw0,Hi Xiaowen,very_hard,,说了说了说了。,extreme noise - word audible,2026-09-01 11:18:31,
+b0cb4b165a76bc89493f6ac8c9432596,kw0,Hi Xiaowen,very_hard,,"您好,请问您好。",extreme noise - word audible,2026-09-01 11:18:32,
+b1a58cfec7c6d0da2c958e323c481ae1,kw0,Hi Xiaowen,very_hard,,你们太小问。,extreme noise - word audible,2026-09-01 11:18:34,
+b1bb2cc5c4546e6e910a3c639b167645,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:18:37,
+b200989881bb0cd610781c14186a9b2f,kw0,Hi Xiaowen,very_hard,,,incomplete utterance,2026-09-01 11:18:44,
+b20539b67c3cfb2219f4263ffe4d3a21,kw0,Hi Xiaowen,very_hard,,问问。,ok,2026-09-01 11:18:48,ok
+b3587663cfdc9a507735bdd691555cc9,kw0,Hi Xiaowen,very_hard,,,ok,2026-09-01 11:18:50,ok
+b36c8317b12d85988aef5c136b5916f4,kw0,Hi Xiaowen,very_hard,,,ok,2026-09-01 11:18:52,ok
+b3c8355903b0d4f827fb5aefc90e51f2,kw0,Hi Xiaowen,very_hard,,1.下小问。,hard,2026-09-01 11:18:55,hard
+b91221e1dd9d58984d26909368fd2207,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:18:57,
+b96a6ddd8c92fc459f6886129715e90c,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:01,
+b9fdbc8e1d39b3a4a709849b6c16884e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:04,
+b9ff0cf784c1eb69a5e3bbf9a9f164ae,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:06,
+babf3e9d773136021027b2e3bf5731a2,kw0,Hi Xiaowen,very_hard,,不太想问。,extreme noise - word audible,2026-09-01 11:19:08,
+bc63e42ac3ae0750103d7fc197c34fa8,kw0,Hi Xiaowen,very_hard,,"来,喽喽。",hard,2026-09-01 11:19:10,hard
+bd0e9ebc3a2f58f99db8f613b26f0eec,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:12,hard
+c069a2c50e7383bef6787c9a1944431d,kw0,Hi Xiaowen,very_hard,,你会问我什么时候?,extreme noise - word audible,2026-09-01 11:19:15,
+c147d2b0d4e2510e43d1a7e1875d59cf,kw0,Hi Xiaowen,very_hard,,好你问。,extreme noise - word audible,2026-09-01 11:19:16,
+c33362f38ddbde088b42514e996a75e2,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:18,hard
+c5d8484d4e8b662c25cbd81dbc3a9e8a,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:21,
+c7128a8ef4da2ba183bc1addc3e3bcf2,kw0,Hi Xiaowen,very_hard,,嗨小问。嗨小问。,extreme noise - word audible,2026-09-01 11:19:23,
+c759dec65329e432cce01af9f7367f2c,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:25,
+c7fc4d45cad6263515a416c097cc6760,kw0,Hi Xiaowen,very_hard,,我爱你。,extreme noise - word audible,2026-09-01 11:19:29,
+c83a3f871af3b9a61f240dc51c652b4d,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:32,hard
+cb28ab30daa63d31c49228bd63ae478a,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:34,
+cd9adf11761564eb209ca575bfb8e649,kw0,Hi Xiaowen,very_hard,,嗨小乐。,hard,2026-09-01 11:19:36,hard
+d205c48d6eb56b890e2dbc0dc4fb6296,kw0,Hi Xiaowen,very_hard,,"好,请问问,请问。",hard,2026-09-01 11:19:40,hard
+d4eebc033b7197915eff35e0f77790e4,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:42,hard
+d4fa44e9aa6ea4377c429d3680d378b0,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:44,hard
+d8002748ad8033b14a8aa354e8d4e6ce,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:46,hard
+db65736e981077ca193a563874edac63,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:19:48,hard
+dc2ee87a770238f3dd6b959de65a810f,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:19:50,
+dc84a4490efa2f91c1f4eb1c294085f8,kw0,Hi Xiaowen,very_hard,,,incomplete utterance,2026-09-01 11:19:56,
+dde01b85f004b83b89998c7d65de5cd7,kw0,Hi Xiaowen,very_hard,,我那边通常都变成这样的。,incomplete utterance,2026-09-01 11:20:03,
+df3eb9ef2b90510babe4ab5f9fe83e24,kw0,Hi Xiaowen,very_hard,,看见我们。,ok,2026-09-01 11:20:07,ok
+e00c6c9b29f0f8a5b3e5279e3a286f7f,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:09,
+e01f5bf166c406b3ff1f163d0e3f1d38,kw0,Hi Xiaowen,very_hard,,没问题。嗨小问。,inaudible utterance,2026-09-01 11:20:12,
+e08cc1baf73b4cffd956bdc23449fd0e,kw0,Hi Xiaowen,very_hard,,干嘛?你干嘛?,inaudible utterance,2026-09-01 11:20:14,
+e0f8c8727a60cf1d0ada792fdee648cf,kw0,Hi Xiaowen,very_hard,,,inaudible utterance,2026-09-01 11:20:16,
+e1c3689c63158e59f0e82743a806cb7e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:18,
+e1d56dccecbcdb4ea942befcd82e51d0,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:21,
+e1dd945066bf2f0fe3536a31cc60d481,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:23,
+e2b53c582caefe8c3b8e78f2ce15118b,kw0,Hi Xiaowen,very_hard,,二十七没用的。,inaudible utterance,2026-09-01 11:20:29,
+e2eaad00fae030c5bd903d3fe0b6f800,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:31,
+e31db8a710d9493240b5713b1e396411,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:34,
+e4311b15c920fdb10a632ba91142bd75,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:36,
+eab9b691f57e7e0187d02936e43a2039,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:38,
+eaeb21e660eb8beae42cb34cdb4a7111,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:20:40,hard
+ebe6ff382ffef71026fb3b069bfc8018,kw0,Hi Xiaowen,very_hard,,你我猜想你的,extreme noise - word audible,2026-09-01 11:20:42,
+ec6eb312d2b7524e1a3d1ea28fd7d6ac,kw0,Hi Xiaowen,very_hard,,,hey not hi,2026-09-01 11:20:45,
+ecfc1df7923a7fcd886577ba875785c0,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:20:48,hard
+ed13bf951aa5a496e4bac26e8563554b,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:20:51,
+ed919d4e479b05dd7345bc8a712049cc,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:20:53,hard
+ee07355697207de966d2c1ed7e39a239,kw0,Hi Xiaowen,very_hard,,太久了。,extreme noise - word audible,2026-09-01 11:20:56,
+ef277b66976ad3bc13eaf6c8256e4df6,kw0,Hi Xiaowen,very_hard,,说什么调队?,hard,2026-09-01 11:21:01,hard
+ef5100d55faffdb11a6ffa9a2e64de3a,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:21:04,
+f23159c05e3fc5bdc78c2552fe395e31,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:21:06,hard
+f343bd99d51decb64c1837d91db22b14,kw0,Hi Xiaowen,very_hard,,我拍小问。我只。,ok,2026-09-01 11:21:09,ok
+f469cb42e543b14f2c9e5a3526873d5b,kw0,Hi Xiaowen,very_hard,,"嗨,朋友们。",hard,2026-09-01 11:21:11,hard
+f70b1e573f3410fd3a5fbca4f89abc06,kw0,Hi Xiaowen,very_hard,,作词 曲 音 计刷 电 样 传 音 笔 安 星 尾 减 青 内 孙 白 红 纳 红 电 无 烦 纯 纳 纯 约 桃 组 发 红 纲 纯 红 约 纵 约 绵 纵 纵 纏 纵 纵 纵 纵 纵 约 尾 约 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵 纵,extreme noise - word audible,2026-09-01 11:21:14,
+fa1204926a768a9ebf54350c4f103a28,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:21:16,
+fb9d9f79efceadb53d212f1f54c9b8e6,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:21:18,
+fc45e9c244f0bca20e9f0a682f6db319,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:21:20,hard
+fd2d81931557c1a99f157108a71b45c3,kw0,Hi Xiaowen,very_hard,,,ok,2026-09-01 11:21:22,ok
+fe60864190c05c66db1ed7d89804708e,kw0,Hi Xiaowen,very_hard,,,extreme noise - word audible,2026-09-01 11:21:27,
+ff28290359bc2dffb46e292e8ceab86a,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:21:29,hard
+fff9fded38541e7e9611ba642c2ea54b,kw0,Hi Xiaowen,very_hard,,,hard,2026-09-01 11:21:32,hard
+00bea6f0df677a9ba11c9f4c4ec584d2,kw1,Nihao Wenwen,very_hard,,嗨小问。嗨小问。,ok,2026-09-01 11:21:35,ok
+01d63ca4e38fd47d5d1e3c172ba271fc,kw1,Nihao Wenwen,very_hard,,你怎么知道这个?,incomplete utterance,2026-09-01 11:21:46,
+03c067c20edcdbc51491dbdacd634df2,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:21:50,ok
+0412709831906beeec6ba1882189d33e,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:21:52,ok
+0570e6cb166a8537c4689a48fa69d7f9,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:21:54,ok
+05b5769255da4bad442acbffd34c2090,kw1,Nihao Wenwen,very_hard,,我说你好问问。,ok,2026-09-01 11:21:56,ok
+05ee61ea44bb381fe7d86176abe6a25d,kw1,Nihao Wenwen,very_hard,,你好问你一个问。,hard,2026-09-01 11:21:59,hard
+065c460a9ad1e0c0efeb66670d69733e,kw1,Nihao Wenwen,very_hard,,我认为你。,extreme noise - word audible,2026-09-01 11:22:02,
+072bf6fc7cace4712955c142613e7a34,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:22:06,ok
+073be9a913dafeeb399156011ac8cc55,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:22:08,
+08a04005be5c1382a033423600960ffc,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:22:10,hard
+09d8582a714e94dd74340ded83a1d148,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:22:14,hard
+0b21a0102d761dc4c2e477cfeb698f07,kw1,Nihao Wenwen,very_hard,,"你很问问,你还是个大小。",incomplete utterance,2026-09-01 11:22:16,
+0b30fa1741ba7683a655467a0696ff03,kw1,Nihao Wenwen,very_hard,,你自己好问了。,extreme noise - word audible,2026-09-01 11:22:19,
+0bc709d32fc08f7eec0e5d7834e82227,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:22:21,
+0c35c7ff6ff4a53199412ceed2437822,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:22:24,
+0c3fcab5598b624c39bcdd275b500c32,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:22:26,hard
+0cbf9fa7da497e327bae96ef3585a4ee,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:22:29,hard
+0d1fb1190edbb4c2f557c2a3a92a395b,kw1,Nihao Wenwen,very_hard,,你还不明白我。,hard,2026-09-01 11:22:31,hard
+0d4401b590dd301e33e7e684e47f897e,kw1,Nihao Wenwen,very_hard,,要好了。,ok,2026-09-01 11:22:33,ok
+0e72de0e63833361963fb42c439942dc,kw1,Nihao Wenwen,very_hard,,你怎么知道我说话。,extreme noise - word audible,2026-09-01 11:22:38,
+0eb821c726f160b82919e44a7f958f3e,kw1,Nihao Wenwen,very_hard,,"你好,大家好。",extreme noise - word audible,2026-09-01 11:22:41,
+0eb87dbcad5a9978e62de07dac1b1319,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:22:45,
+0eef903f5088de3ad4e7365f91bd99f9,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:22:48,hard
+0f25e37b43fc71807f33598debab9902,kw1,Nihao Wenwen,very_hard,,那怎么又大了。,ok,2026-09-01 11:22:53,ok
+0f516c6a08a2a0b79d1c0c53ee20c706,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:22:59,ok
+0f58845dc7880a8a143fa01204f3c02c,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:23:02,
+125dec4be382180800fb786340ee96fd,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:06,hard
+130b62843eecdd75273409d07c4b6115,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:23:09,
+1497c8a4910a07b0afdc693ed01f328e,kw1,Nihao Wenwen,very_hard,,你会要来?你会要来?你会要来?我会来?,extreme noise - word audible,2026-09-01 11:23:12,
+151757baf37321f12b1ca9edce138cbe,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:14,hard
+15f6226ac583e60961d6ad7072132975,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:16,hard
+15fd895d4489857a6c4e540f2427c7d2,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:18,hard
+16ceb118f1f0aeca73b2e438fd4c96ae,kw1,Nihao Wenwen,very_hard,,,incomplete utterance,2026-09-01 11:23:21,
+176f2be3b13ca3bee79906fe613a6998,kw1,Nihao Wenwen,very_hard,,,inaudible utterance,2026-09-01 11:23:24,
+17823c49bd8c361bfbdbd14b74583af6,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:27,hard
+17fc34a8ffb64e9bdb9c2142b1abcf79,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:30,hard
+18d094567cd4852454615c1afa97d582,kw1,Nihao Wenwen,very_hard,,这生都那么好养力。,inaudible utterance,2026-09-01 11:23:38,
+1924ee2b0b5b5f196f27b5e71a7d531b,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:23:42,ok
+193c1929470e344947eae857d65ee87a,kw1,Nihao Wenwen,very_hard,,我问问问问。,extreme noise - word audible,2026-09-01 11:23:44,
+19fec4f1ff356803c3c99ab8791c53d5,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:23:49,ok
+1a0c451128fbdf0cbc648055f785fc93,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:23:51,ok
+1a1b33fb8d75a971d7a7d4e2837261b1,kw1,Nihao Wenwen,very_hard,,那我来说。,extreme noise - word audible,2026-09-01 11:23:54,
+1a2097005847543d5293c7fe4ad397ca,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:23:57,hard
+1a7e968ab67759d0366ff43dd23c9f83,kw1,Nihao Wenwen,very_hard,,"你好,伯伯。",ok,2026-09-01 11:24:00,ok
+1a862b699431d0f346769976094804f6,kw1,Nihao Wenwen,very_hard,,你好问。 多年。,ok,2026-09-01 11:24:02,ok
+1b06b87a52819e30c35e768332b1c23b,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:24:04,
+1b21d9995cf68b74a9fbf96603c730c9,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:24:07,ok
+1b264933b934d08ea23113195aa254a2,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:24:09,hard
+1b85ccecb982133eb1a22dc7c611134a,kw1,Nihao Wenwen,very_hard,,以后认证。,hard,2026-09-01 11:24:12,hard
+1bd020cb380aa56cf4a2f85006b9a73e,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:24:15,
+1fb0643317d2a21fa07deeba3e3e9d92,kw1,Nihao Wenwen,very_hard,,咸嚑 na na na na na na na.,hard,2026-09-01 11:24:20,hard
+2044059c4465d750e5c3398d7e8ff520,kw1,Nihao Wenwen,very_hard,,,inaudible utterance,2026-09-01 11:24:23,
+207c5f7fb8f2373e048f8b5285d133fc,kw1,Nihao Wenwen,very_hard,,嗨小问。,inaudible utterance,2026-09-01 11:24:25,
+2113ddbd8ee094d0a069d9d56db073df,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:24:27,hard
+21d09ba99d56cbc76fd9fbf55e3a0cce,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:24:30,
+23259a7e9ba4359d80634e230935567c,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:24:32,ok
+237145a23f6f7879d58f6c1a0f046221,kw1,Nihao Wenwen,very_hard,,你让我问。,extreme noise - word audible,2026-09-01 11:24:35,
+24d335af79d1ce8a3d84ae09ac112fb9,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:24:38,
+25095b273058a29b0b1b80696fe1ab08,kw1,Nihao Wenwen,very_hard,,您好问。,hard,2026-09-01 11:24:45,hard
+2583d62b4225f92993d6519d59633f77,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:24:47,hard
+27e848caab18491814bebd4b0e4c8a4c,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:24:49,
+27e91ed9e5b591d961a7607368d41576,kw1,Nihao Wenwen,very_hard,,你怎么会这样的?,extreme noise - word audible,2026-09-01 11:24:53,
+297527b36a529c49a8d096245adfabd1,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:24:56,hard
+29ac92bfd761b228379a81391bd756f4,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:24:58,hard
+2a4b59c7a8b21e6b971472cccd8e0201,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:25:01,ok
+2a5ad17ee8a37b4af810407894711a13,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:25:03,ok
+2b29d8b590f7e1fac8bd1a9574c473f1,kw1,Nihao Wenwen,very_hard,,嗨小问问。,extreme noise - word audible,2026-09-01 11:25:06,
+2ba75e8121260069d38656b61b1577f6,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:10,hard
+2d4c9fce1d7f42b496274784cfad343c,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:13,hard
+2d8e7b1380ff6fdc349dfe63b4fa7ab3,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:16,hard
+2dadf37bd7f28bba21e8de66e08d37af,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:19,hard
+2e3695b0abd8dd5fecc8a2789d63a880,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:25:22,
+2e5cd34e1fddcc8f0b43d5362902a765,kw1,Nihao Wenwen,very_hard,,嗨小问。,hard,2026-09-01 11:25:28,hard
+2e6a85069ba2783945179e8c856e6ffb,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:32,hard
+2f67c43a773da26e4494ecb6da24cf84,kw1,Nihao Wenwen,very_hard,,好问。,extreme noise - word audible,2026-09-01 11:25:35,
+321395335eb56b294752bb34782bca26,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:37,hard
+33550dcf44d4f983547bd5c276651afb,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:25:39,
+33652fa20aaa2bd1e7c73ddb6cc39847,kw1,Nihao Wenwen,very_hard,,你怎么会在这儿。,extreme noise - word audible,2026-09-01 11:25:41,
+33ebf69a6efd38be6c5c53e0e2cf7415,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:25:45,
+3566e725cee5c2ab6b9c8f31aa444fd8,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:47,hard
+359043afe00d7dd6e64fc6b09cf5b0f7,kw1,Nihao Wenwen,very_hard,,就看这个节奏有喜哈。,extreme noise - word audible,2026-09-01 11:25:49,
+35d583b5fa6c756726db33eddeaaae20,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:25:52,
+35dba1992d8b6e609d585d4d861110d3,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:25:55,hard
+35f8a5fe3a43bd0326c4600958b4e191,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:25:58,
+3676598735071e38267f8e9d0b0230ba,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:26:01,ok
+36778add8fa4a0691d3ac0af979f75ad,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:26:03,
+3687e1da8a896a00f6f7980cd7604ab9,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:26:06,ok
+36b566528674314022b711eddc5ab159,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:26:10,hard
+38e9e6b2361203149540556562971df4,kw1,Nihao Wenwen,very_hard,,哇哇哇哇哇。,incomplete utterance,2026-09-01 11:26:13,
+38ed43ce4f8b15b0b0ca3a4f29f521db,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:26:18,hard
+399acb3822f25275027ab681c5ed83f5,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:26:22,ok
+39d766f6565daf3de5c1fef6a4c05449,kw1,Nihao Wenwen,very_hard,,"你好,好 지�....",extreme noise - word audible,2026-09-01 11:26:24,
+3a8f256a08b22b9989e9a147dfdde436,kw1,Nihao Wenwen,very_hard,,"你去家,我去哪儿去?",extreme noise - word audible,2026-09-01 11:26:27,
+3ac86bcfc0d82d0dff03c7bb5247e8fa,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:26:30,
+3c0dc02b0ab79578098b72eb069f9139,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:26:32,hard
+3c7f4c9a14e7a2898089485798ed92e3,kw1,Nihao Wenwen,very_hard,,嗨小问问。,hard,2026-09-01 11:26:39,hard
+3d3e4feeb7a0a97f70887ae3b4e4dff8,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:26:41,
+3d5f2d62be0daf3ad7e3a9e0b243b128,kw1,Nihao Wenwen,very_hard,,"好,来吧。",extreme noise - word audible,2026-09-01 11:26:44,
+3d86375f92ca6a90bddda93f06754a0f,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:26:47,ok
+3f25aaf2624c528d9b7a5f0afe964a3b,kw1,Nihao Wenwen,very_hard,,那是谁?谁?,incomplete utterance,2026-09-01 11:26:51,
+3f73b48daa42b3b66c7a28b9ae472611,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:26:54,hard
+3f904f05d639c793fe90768057da386d,kw1,Nihao Wenwen,very_hard,,你们在这儿好软吗?,extreme noise - word audible,2026-09-01 11:26:56,
+3fd969a1535febb3fd74d1b18fcb139d,kw1,Nihao Wenwen,very_hard,,,inaudible utterance,2026-09-01 11:26:59,
+4002eabf790247ab839d7347fd56c6d3,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:27:02,ok
+4032c8989e05cf1fd5e448d6c09c687f,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:27:04,ok
+40c90e4b7255a6a67b9d67965d4dba1f,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:27:07,ok
+41767c43a67949f359d252a75634fa5f,kw1,Nihao Wenwen,very_hard,,请问问问。,inaudible utterance,2026-09-01 11:27:13,
+421f4d4529cc3d6366e07dd3680a62df,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:27:15,ok
+42afb92ffb60a1fd29be42d22a49881a,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:27:18,ok
+42c8d67313f45c44b07bacdfe1619803,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:20,
+4515d28d57f697e73654a9e635000846,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:23,
+45922399277957db71d5c4586b41ebf0,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:27:26,hard
+45af8e71e1041e12d62d40e366737d2e,kw1,Nihao Wenwen,very_hard,,"我最爱你,我最爱你。",extreme noise - word audible,2026-09-01 11:27:29,
+45ea6aca498b486784e75a0b04c9e9b6,kw1,Nihao Wenwen,very_hard,,"你好,我叫你儿子。",hard,2026-09-01 11:27:31,hard
+45fe8a8cbec3b0fc9d0f60b41749c89f,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:27:34,hard
+4620722684cb76a3a028999a85699910,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:27:37,hard
+482e25716336aa2662b705caf3c583d5,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:27:40,hard
+48b5e7a434ea8c5738f17411610c2ad3,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:42,
+4c37d9e01d795c6cb54e9dd854d5907c,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:45,
+4c8d34f1c1d689db68af5e0440150416,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:48,
+4d05a1a9247de38129be067d00948b9e,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:27:50,hard
+4d44d7fcf80b2f6c140eb24ba5af6472,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:52,
+4d459b5187174f59968e1592fe4ebb2e,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:27:55,hard
+4d76ef6c2c49255e3a2e9d457a260cbd,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:27:58,
+4dc91f16af0a3c9c3f50bb9ce4f1fff9,kw1,Nihao Wenwen,very_hard,,你少不忍得住,extreme noise - word audible,2026-09-01 11:28:00,
+4e265ed3c5b8fa27f940b2396ae022ca,kw1,Nihao Wenwen,very_hard,,你好问问问问问。,inaudible utterance,2026-09-01 11:28:03,
+4e428a5bd06940e016c4e12a0d8e1c58,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:05,hard
+4eb3cad8e64ba21982202d464a52e8f0,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:08,hard
+4ec442dacaea972285a2d6bc5ad38932,kw1,Nihao Wenwen,very_hard,,你怎么会问我。,extreme noise - word audible,2026-09-01 11:28:10,
+4ed99ca41e76193bcbd0136f8db5ffb3,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:28:12,
+4ef751cc8f56ced537b254da134b736d,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:14,hard
+4f2242f940aa6095bc139222f69bea01,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:17,hard
+4fa7ec634f5e7240294740f833ea2786,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:19,hard
+4fda4996bb62b9c7be52483b424d685b,kw1,Nihao Wenwen,very_hard,,要 还 来 来 来,extreme noise - word audible,2026-09-01 11:28:21,
+51d23db6ac80f8043a828e92590c4304,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:23,hard
+52961c36d12c47daa271f5e22d6feeb0,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:32,hard
+52d2b599b273b53d9dc0c73a0b4bbbba,kw1,Nihao Wenwen,very_hard,,啊你老婆啊,hard,2026-09-01 11:28:35,hard
+52ec9f4ddfa447fb47cd54097c6ab6e5,kw1,Nihao Wenwen,very_hard,,"您好,您好。",extreme noise - word audible,2026-09-01 11:28:38,
+5346b3824ae3a2af02b27c073290f3c7,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:28:40,
+534f1867b20e387400c31b769470f8f8,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:28:42,ok
+54668bb0e42c60888fe2ea4306abb6ad,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:28:45,
+54697a378d5027fccfbb5a45da3a7741,kw1,Nihao Wenwen,very_hard,,"事大为,这关键有五线。",extreme noise - word audible,2026-09-01 11:28:47,
+549c331e277d7562e515be6324caa489,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:28:50,ok
+555d6f5d2c64c28839db344bcc9715c5,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:28:52,ok
+55b7e34207407b1cbcd44a268928c73c,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:28:54,
+56baa058a86fe41d302086b05019846a,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:28:57,hard
+56f185955c3c2418ea217e3bfc9535ee,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:28:59,
+56f3fb7ba74b4a0ed4085bd01fc827fd,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:29:01,
+59319c86e9a999e600c4c831d323ae2b,kw1,Nihao Wenwen,very_hard,,一滑问问。,extreme noise - word audible,2026-09-01 11:29:03,
+59a8e02c38b7142c11170f0ee4fe96d6,kw1,Nihao Wenwen,very_hard,,我要去我家。,extreme noise - word audible,2026-09-01 11:29:06,
+5a87746b1281837196810750ab7a5f76,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:08,hard
+5a8a947152bbab7e2cbe1af37f634b08,kw1,Nihao Wenwen,very_hard,,你好问。你好问。,extreme noise - word audible,2026-09-01 11:29:10,
+5b3d81acba5c8253d5bb7d6e5207b937,kw1,Nihao Wenwen,very_hard,,嗨小问问。,hard,2026-09-01 11:29:13,hard
+5b967b76e413b0aafe65dd8a0a6c4068,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:15,hard
+5c3accfb18124acba047d4df129815bf,kw1,Nihao Wenwen,very_hard,,我是绝好问问的。,hard,2026-09-01 11:29:18,hard
+5c8661d62ec1c8bf09b52f3ba56f3f42,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:29:21,
+5cc8ce3b981349bc50a6c4768f066c47,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:29:23,
+5ccd1cca73d5c8703ec1e2127df64c9e,kw1,Nihao Wenwen,very_hard,,"啊,我问。",extreme noise - word audible,2026-09-01 11:29:25,
+5d250e200f824c135fc60aa37c998413,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:28,hard
+5ddd5f57118ece546a61e4b241359ded,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:29:30,ok
+5ea8675703ecaf30c68a098a1b85c8eb,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:29:34,
+602a6b480f564ca59c33bed1825e367c,kw1,Nihao Wenwen,very_hard,,好问。好问。,hard,2026-09-01 11:29:36,hard
+604308176242712293c179ab21b504b0,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:39,hard
+60466f1acaa002a415b08731e6d9b807,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:41,hard
+614b9cbbcf009abebb144057f99d7171,kw1,Nihao Wenwen,very_hard,,你好了吗?你做成绩。,hard,2026-09-01 11:29:44,hard
+6221ae0c9f2e409fba0da0052d1755af,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:29:46,ok
+62eb115d776dff6787126f9e0b52dc2d,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:29:48,
+62f85ad7e280d6a991a606dbc83fa6bf,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:51,hard
+62f8a6e75a1596809f16a4d63135af09,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:29:53,hard
+631c6f67aa1580a7a1fbedc5a4b2ec82,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:29:55,ok
+6354db92329d6bff15c16f3f9261bd1f,kw1,Nihao Wenwen,very_hard,,我用话问我。,extreme noise - word audible,2026-09-01 11:29:58,
+63b52a5510e88c959e756b17a24750e2,kw1,Nihao Wenwen,very_hard,,你好对人。,extreme noise - word audible,2026-09-01 11:30:00,
+63ea17be8b651f3a3147a3a28d11ba50,kw1,Nihao Wenwen,very_hard,,还有一个表面的位置。,hard,2026-09-01 11:30:03,hard
+64fbe298874e9b823997be42cdf48aa7,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:05,hard
+652d5d996a6800ff6ea4b21a434378bb,kw1,Nihao Wenwen,very_hard,,"你快点,小问。",extreme noise - word audible,2026-09-01 11:30:07,
+65349efe8ebb6998bd89dcad526bc718,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:09,hard
+653647bb87cba88849af5ab0039a401e,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:11,hard
+65f067dee83176689b1b31e450daa9f1,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:30:15,ok
+661b71387e47550ebd2e906aa25708ca,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:17,
+674959e04d9873f9b164b1122db82858,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:19,
+6867eff86943f11356833df17351e38f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:21,
+68de18c6f173f9416424a9ed88de9ee4,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:23,hard
+68ee730ee94e825645823c050f1eeb1a,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:25,hard
+69315077805c89f6d1c49dc85a87ad5e,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:27,
+699ae4c81ccfe76ead6a4766680acb18,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:29,
+69bf13e526ebb499697e83a227aaaa61,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:31,hard
+6a8ecce7860ab2a89cd55a8169a590b9,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:30:33,ok
+6ad42234528dfd438ff9c44b95aec157,kw1,Nihao Wenwen,very_hard,,,inaudible utterance,2026-09-01 11:30:39,
+6b0743e16b64a780e4d4365d3fb59527,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:30:41,ok
+6c2dd93630a376103fd2a67c937b4219,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:45,hard
+6c39a1fea89be8855aeb056ce9e390a9,kw1,Nihao Wenwen,very_hard,,嗨小问问。,hard,2026-09-01 11:30:48,hard
+6c7def4b7d3bf31290499bcee984e6f0,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:30:52,hard
+6caad00ffce06a21ffb482576c78d064,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:54,
+6d8cfc4aa52adce03e99f70009c894b8,kw1,Nihao Wenwen,very_hard,,你不要问问。,extreme noise - word audible,2026-09-01 11:30:57,
+6d9ace20f9f0d320138725a139e5a0a1,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:30:59,
+6de0542d21b1e509654b293f56bf3705,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:31:01,hard
+6f8b89e20ba0d8fdd66d374a74c59282,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:04,ok
+6f9d83ec25e0643c3580f4ba2ed0c884,kw1,Nihao Wenwen,very_hard,,你好。,hard,2026-09-01 11:31:07,hard
+6fb5e2e36c15eb9efe018d8b7b7c0f8d,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:11,ok
+6fc038a2e9989e395a975475f1b0e7e0,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:13,ok
+700a0ce919f7c5059bcff7870ab6ec8e,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:15,ok
+71a7f4529bde54ae6f4c8d79bfe7b8ca,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:17,ok
+71f3a166bba928b15782fdab8c11a37d,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:19,ok
+7263e82a2accc2622ed14dff5828e1ae,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:31:21,
+7381f87e62dda877fd1c1a8d464d85df,kw1,Nihao Wenwen,very_hard,,我说你,extreme noise - word audible,2026-09-01 11:31:23,
+746f4c159577b4c96a47c09d0dd0c691,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:31:25,hard
+74d82fc16f39ae64c2ed97540a8f9750,kw1,Nihao Wenwen,very_hard,,请您好问问。,extreme noise - word audible,2026-09-01 11:31:27,
+754b4a2c7040de64924887f4e3e9ff35,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:31:29,hard
+75b1f9dcc3cf841f704ec04242e8c104,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:31:37,hard
+75b4c46df724d4aac68c8f45debc2fff,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:39,ok
+75b844cf95c262792c01f3051e62a2a3,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:31:41,ok
+75cb02a45af39b8d5bfbb3e7da19e4c7,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:31:43,
+75f4d923c7ea4755223f9505a1ae22f5,kw1,Nihao Wenwen,very_hard,,你也访问我。,extreme noise - word audible,2026-09-01 11:31:45,
+761713c330d41cdd215a67518a883d89,kw1,Nihao Wenwen,very_hard,,你好乐乐乐。,hard,2026-09-01 11:31:48,hard
+763120adc01180c7907ed43a7b92e3a5,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:31:50,hard
+77274e70a41248f36e374f80f4462f49,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:31:52,
+7788a100453573a224f0011a3e4365fc,kw1,Nihao Wenwen,very_hard,,好问。,extreme noise - word audible,2026-09-01 11:31:54,
+77a9a2cbd559409877d5b12e3bbbeb5c,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:31:57,hard
+79d18a6940ff5b941d79bdaa809296f2,kw1,Nihao Wenwen,very_hard,,好问。,hard,2026-09-01 11:31:59,hard
+79d58ee000a3a23071d8ee7be446ea34,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:32:01,hard
+7b3edb20aa76b023aaf754f1906d9302,kw1,Nihao Wenwen,very_hard,,"您好,请您好。",extreme noise - word audible,2026-09-01 11:32:03,
+7b60713bedb78e6451392ffc55a47845,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:32:05,hard
+7ca3bef24c85950e3544027e66fa75d8,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:32:07,ok
+7cbc5df961c60baaabf58a7ce1650bca,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:32:10,ok
+7d63fd05561b57f27effd3375a130a53,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:32:12,ok
+7ece7c4b7a02450a69fb58546449f170,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:15,
+7f0134865a20442763064b702f8a7ae0,kw1,Nihao Wenwen,very_hard,,您好问问。,extreme noise - word audible,2026-09-01 11:32:17,
+7fc25936fda08e72d0c97fd85d0e134b,kw1,Nihao Wenwen,very_hard,,你好问这些。,extreme noise - word audible,2026-09-01 11:32:18,
+8026444cdca6c93becb3d4b518447059,kw1,Nihao Wenwen,very_hard,,你们好问问。,hard,2026-09-01 11:32:20,hard
+8076a9f378ef55c2021cccc82b0f127c,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:23,
+8094998a11acbf32691355e2c4f7e980,kw1,Nihao Wenwen,very_hard,,"您好问问,有任何人?",extreme noise - word audible,2026-09-01 11:32:25,
+80c7bc77525740f0f6fb91b8da52d9ac,kw1,Nihao Wenwen,very_hard,,"好问问,这句。",hard,2026-09-01 11:32:27,hard
+80f9d337b742e2a9e0b3758811ce7cf1,kw1,Nihao Wenwen,very_hard,,"我不要好了,问。我。",extreme noise - word audible,2026-09-01 11:32:29,
+8119a6b7fea9b17e8cb9f50f603ccb56,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:32,
+812bb9a648d4185c08e9d8dddd502c49,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:34,
+81698cfa1782d63a7abae2928b8da1f2,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:32:36,hard
+81bb231b94afb15fe2f36c8f94af5a28,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:32:38,hard
+82303928179a74442030d0914d5bc85f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:41,
+82601fa8e58404334dd0525e18c68f0d,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:32:43,hard
+83903edf71ec7188e4f467795fd2e958,kw1,Nihao Wenwen,very_hard,,"你好问问,问问我哒员。",ok,2026-09-01 11:32:46,ok
+84e5816e89aa830df5f7e8350da57d8f,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:32:48,ok
+85a67ddf0e22af0268391ca15451f95b,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:51,
+85bf0713d54042937a6796f5f0d555a9,kw1,Nihao Wenwen,very_hard,,您好问问。,extreme noise - word audible,2026-09-01 11:32:53,
+85c9430d78efea22122d0b0eb4b4d78b,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:32:55,
+85f5ca54ca9c81c3352362b8282f22e8,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:32:57,hard
+8621cef1b272dbbd0e22f7dd7ad3f045,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:32:59,ok
+8623126feb68da967b11e8412342b5c5,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:33:01,ok
+866f2ffc16c51a531514c0430c863dd8,kw1,Nihao Wenwen,very_hard,,"你好,乐乐。",hard,2026-09-01 11:33:03,hard
+8673ab7435503bc4457fc04682eb7562,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:05,
+86b747334589365468747ea46aeb182c,kw1,Nihao Wenwen,very_hard,,您好问问。,extreme noise - word audible,2026-09-01 11:33:08,
+86c498a64a183a00857980faf491ae40,kw1,Nihao Wenwen,very_hard,,你放我来。,extreme noise - word audible,2026-09-01 11:33:09,
+871996fdc719563ab4eb1d415f7e8237,kw1,Nihao Wenwen,very_hard,,你好。那可能多少?,extreme noise - word audible,2026-09-01 11:33:11,
+87272d46b18c8306a38a561b6b293302,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:33:14,hard
+875fd3839e7b275e73656355f6c8811b,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:16,
+882952f7cd477d32efb603ae02392797,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:33:19,
+886e9f5d69841d0f5ca9b1b728ab1d76,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:21,
+88d5c1bd0d0e73a3c24a636a7bf5bd75,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:23,
+88da255fb5fda39a9c86227cb58bf51a,kw1,Nihao Wenwen,very_hard,,,inaudible utterance,2026-09-01 11:33:25,
+88ff4916f89f29af7a9a87522c05029b,kw1,Nihao Wenwen,very_hard,,来吧来吧。来吧。,extreme noise - word audible,2026-09-01 11:33:27,
+8919f68652c199d390880e59e692ad49,kw1,Nihao Wenwen,very_hard,,,inaudible utterance,2026-09-01 11:33:29,
+891ff161bfc7fd5b7edf043fac9ee324,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:32,
+89ed298029e4d1e0af24edf25be81220,kw1,Nihao Wenwen,very_hard,,你先说话吧。,extreme noise - word audible,2026-09-01 11:33:34,
+8a7dc4d80c499b3a2faa0e958579ad12,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:36,
+8bef08e3891eab4a8e0f8b1c8a3b8891,kw1,Nihao Wenwen,very_hard,,嗨小问。,inaudible utterance,2026-09-01 11:33:39,
+8caf0fc592ae0e1fcd3bccd282bc40ee,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:41,
+8e8ad37658d02cf3f6cd0d9e04ddd1ff,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:43,
+8ec072c074dc9fef63bda795c127b5be,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:33:46,hard
+8ef8c5faad40e4753240f8fb9f2cfafc,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:33:48,
+8f2b7111fb0fe8caef68091aa44f65d3,kw1,Nihao Wenwen,very_hard,,请问您好问问。,hard,2026-09-01 11:33:50,hard
+8f43bc0a654210f6fd1980648079d0f3,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:33:53,hard
+90543180199b6b9b65b3d0c7a6714897,kw1,Nihao Wenwen,very_hard,,这位你好论。,extreme noise - word audible,2026-09-01 11:33:55,
+916fd936904f5ed6d31a665003e299cd,kw1,Nihao Wenwen,very_hard,,"Cassie,来,来,来,来,来。",extreme noise - word audible,2026-09-01 11:33:57,
+926dafd3801cbe40f17e641eb0bd6ad3,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:34:00,
+92a09b79c1dab46e4a97a71060277195,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:34:02,
+930c81a5a6cb51ec0d362854426fa683,kw1,Nihao Wenwen,very_hard,,你还好问问。,extreme noise - word audible,2026-09-01 11:34:04,
+93ab7c1ba616b9aaad434dd97a8e3a62,kw1,Nihao Wenwen,very_hard,,我说你不想理我。,extreme noise - word audible,2026-09-01 11:34:06,
+9404c3421d8095eaeedf86d70f9fa831,kw1,Nihao Wenwen,very_hard,,"你好问,你好问,你好问。",extreme noise - word audible,2026-09-01 11:34:08,
+94097404cd5e14c7226e25e40cffb2b4,kw1,Nihao Wenwen,very_hard,,,incomplete utterance,2026-09-01 11:34:16,
+94111eb3e7123921f6b2a1fb321063ac,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:34:21,ok
+94241fe5461828e33ab95330912b60d5,kw1,Nihao Wenwen,very_hard,,你好多人好问。,extreme noise - word audible,2026-09-01 11:34:23,
+949f94b249a8c24232ee74ad59f1562a,kw1,Nihao Wenwen,very_hard,,你好没有了。,hard,2026-09-01 11:34:25,hard
+94c7d205b9d0ba351cd8489df609c577,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:34:27,hard
+94f3d833f57cc1a5e26f9db684e292a8,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:34:29,hard
+956fde9e07adac95f22e3ca87138758b,kw1,Nihao Wenwen,very_hard,,你好乐乐。,extreme noise - word audible,2026-09-01 11:34:31,
+961187fed931c8c9c4dd7b437862e52d,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:34:34,ok
+97074c64ef45078b8f5919d744eee2a5,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:34:37,hard
+987c9444b3964795fff238518aee89b7,kw1,Nihao Wenwen,very_hard,,梦里揚吵。,hard,2026-09-01 11:34:40,hard
+9960271c1bb1eea1b386721ca9389334,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:34:42,
+9a0a442cf7adffff78b15b900b1fe63f,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:34:44,ok
+9a68d74120c8eb3a57e20402eee1c934,kw1,Nihao Wenwen,very_hard,,你好问问太多。,hard,2026-09-01 11:34:47,hard
+9aebfd233bf96e0d69761e620741a30f,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:34:49,hard
+9b5015a59da231a4529ec546771de8d0,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:34:51,
+9b57c794e5e36c80572731cdbaf3d926,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:34:54,hard
+9c6d6538267658ce7940467c90d4320d,kw1,Nihao Wenwen,very_hard,,来吧。,extreme noise - word audible,2026-09-01 11:34:56,
+9da5ecf654e328d8348ae4ad639d7858,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:35:00,hard
+9e1e376e92508de079c4e2f3094c9980,kw1,Nihao Wenwen,very_hard,,您好问问。,extreme noise - word audible,2026-09-01 11:35:02,
+9e58bf199adfdc50a196fad8199fbb3b,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:35:05,ok
+9e8f5eb64c44ef0ee24d945d7a7824b7,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:35:12,hard
+9ec390d731625221c31d4367e8fb228b,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:35:18,ok
+9f54834453adf8efa680de2bc466fc0f,kw1,Nihao Wenwen,very_hard,,"请问问,请问。我是小问。",inaudible utterance,2026-09-01 11:35:23,
+9fd1f7e59034f2e418406f3209e8c59d,kw1,Nihao Wenwen,very_hard,,嗨小问问。,hard,2026-09-01 11:35:34,hard
+a22359da6bc97e525777062b1604db17,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:35:42,hard
+a3f7e6dbe443f0742793e8805c2bc8bd,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:35:45,
+a43545a265c1c933d9fa10eaa3219982,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:35:47,hard
+a4f804ced97f6de34e7a339643f2620c,kw1,Nihao Wenwen,very_hard,,好问问问问。,extreme noise - word audible,2026-09-01 11:35:49,
+a50cfd3c438a78d40682e8d9e24e7c28,kw1,Nihao Wenwen,very_hard,,"你好,爸爸。",hard,2026-09-01 11:35:51,hard
+a52831645b7895f1cb08ae0c172feca8,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:35:55,hard
+a63f2d38d78765f01c557c6a78650f82,kw1,Nihao Wenwen,very_hard,,您好问问。,extreme noise - word audible,2026-09-01 11:36:00,
+a6c5bdfb41425b50fcb8640806cd8cfd,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:36:02,ok
+a8229e5d7bdbc8d83abe90d0f0d4579f,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:36:04,ok
+a854b013cafa2a8492cc6aefc16fbec4,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:36:06,ok
+a857af1d305f8165ec41d4822b3b26ea,kw1,Nihao Wenwen,very_hard,,然后问问。,ok,2026-09-01 11:36:08,ok
+a86dc80134d04c9be1076cde5c284798,kw1,Nihao Wenwen,very_hard,,你好问问。一轮跳舞。,hard,2026-09-01 11:36:11,hard
+a94f463951932896b22ac12f7c7e8ff6,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:36:13,
+aaed357557647b2728500b6b3afed813,kw1,Nihao Wenwen,very_hard,,"你好问问,就跟老爷说。",extreme noise - word audible,2026-09-01 11:36:15,
+ab19938f018a279fd5d9b841cc690029,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:36:18,hard
+abbeaafd3bec76a374f5b3fcaa851db4,kw1,Nihao Wenwen,very_hard,,"好,你不接我吗?",hard,2026-09-01 11:36:21,hard
+ac1b0e023590f7d65750a06649dd70be,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:36:23,hard
+acf3c3b3c7e7bac4e6f1cbd61ca4e3ed,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:36:25,hard
+ad5301dd8d3831ab83a53476ec12f7c3,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:36:28,ok
+aea0590d4e001d1627b54fb6ddf9bdac,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:36:30,
+af1f70ea50b9ae0289a2bc7ab98c66a3,kw1,Nihao Wenwen,very_hard,,"我们一会儿,我们一会儿。",extreme noise - word audible,2026-09-01 11:36:32,
+af57dc8cad82090ce751c8fcac3b5d98,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:36:34,
+b0705abd3a83b04bcb1b12dbc3950097,kw1,Nihao Wenwen,very_hard,,"我带你来,我来,我来,我来,我来。",extreme noise - word audible,2026-09-01 11:36:36,
+b08831d1651024ebd419c876577d7c10,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:36:38,
+b0a8701c66b89562d3d01e88e00e85a7,kw1,Nihao Wenwen,very_hard,,你好乱们。,extreme noise - word audible,2026-09-01 11:36:40,
+b0eaed6faea593d58bbe5c646165c040,kw1,Nihao Wenwen,very_hard,,你好问问问问问。,extreme noise - word audible,2026-09-01 11:36:42,
+b134f1be44b4113c2ea9f5665942a7d7,kw1,Nihao Wenwen,very_hard,,"这个啊,不错,不错,不错。",extreme noise - word audible,2026-09-01 11:36:44,
+b1a9660a8c29026c03516ddfb8edb200,kw1,Nihao Wenwen,very_hard,,别把人们。,extreme noise - word audible,2026-09-01 11:36:46,
+b1efa717c5e14154e5144e95d40abd63,kw1,Nihao Wenwen,very_hard,,Google Power 问。,extreme noise - word audible,2026-09-01 11:36:48,
+b23480dc227d420daf593e5c7abcf8f6,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:36:50,hard
+b24ab4ce2936b6448946818ebf2d7fed,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:36:52,hard
+b27f71dbf1beb98aef304c1a0b763d45,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:36:55,hard
+b28d4239067bae42bd4dca1fd3f0a335,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:36:57,ok
+b2ad96edc3d6428dd80f6d1f10e1f1e3,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:37:00,ok
+b2c6206a5fcd64e3369b2d0509f3e697,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:37:01,ok
+b2cb9cee84a40204a6a405d4210aa722,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:37:03,ok
+b2ecb63fc81e7b48b81ad3dbcce48851,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:37:08,ok
+b2fc477fedff0a47da1fab4daf89778f,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:37:10,hard
+b33cb2f8f203b59015688d2e69692d1d,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:37:12,ok
+b376bacffa3fec3218fc3c81db2ff487,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:37:14,ok
+b5874bcb20873a3fb3bd56087c0b6b58,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:37:16,hard
+b62e9e415383aa306067541ce26169e3,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:18,
+b65ca92e91809506514d120351baf8ef,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:37:20,hard
+b6c6e1ecf192bfdcefe06ce92d9b3889,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:22,
+b78b87c270a6ec50a59cdd72ec0f14b5,kw1,Nihao Wenwen,very_hard,,"金光大东西,好问问。",extreme noise - word audible,2026-09-01 11:37:23,
+b7a165f5570021495cf8ae0914646fdb,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:25,
+b8ccc157d1821c6339c3fd094b5d977b,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:28,
+bae5bfe5b1c81aa67660363cf74f9974,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:30,
+bc40efee0af4d1233a70658b3dfd4c25,kw1,Nihao Wenwen,very_hard,,你请问问。,extreme noise - word audible,2026-09-01 11:37:32,
+bc4a62924b3b83aef1c7f2f00a52a788,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:37:34,
+bc833df59dbcec17dc792bf686ff226d,kw1,Nihao Wenwen,very_hard,,"那你不认识,为什么不认识?",extreme noise - word audible,2026-09-01 11:37:36,
+bce8f3b648818e147b778050bac9bdfb,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:38,
+bcf04522388b2562dd5431061a87a640,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:40,
+bcf7fc6a53738e94fa0fd4c48e582a8b,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:37:42,hard
+be308dd840bda9011dc8c217da20d24a,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:37:44,hard
+c13288433a99619009bdbbc8e1cf1c20,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:37:46,
+c1cafdef816ca21691e90f9ddfc9b21b,kw1,Nihao Wenwen,very_hard,,你很喜欢我。,extreme noise - word audible,2026-09-01 11:37:48,
+c27f7752c6c3714aa99aeb9abb237b96,kw1,Nihao Wenwen,very_hard,,你很好问问。,extreme noise - word audible,2026-09-01 11:37:51,
+c36548db69c1752ebd7e40ad81a1f933,kw1,Nihao Wenwen,very_hard,,好问。,extreme noise - word audible,2026-09-01 11:37:53,
+c396dd857df310f2c44b57587836b1e5,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:37:55,hard
+c3acbf4ffccb0217e80631f517b26c58,kw1,Nihao Wenwen,very_hard,,要好了问。,ok,2026-09-01 11:37:58,ok
+c40ef17cd1c7e47d0b500a01d1db6251,kw1,Nihao Wenwen,very_hard,,你喜欢的。,hard,2026-09-01 11:38:00,hard
+c43f38bace68344bc355f08f8a8d2c5d,kw1,Nihao Wenwen,very_hard,,嗨小问。,hard,2026-09-01 11:38:01,hard
+c5633919f922972e9f1e81815eb8274d,kw1,Nihao Wenwen,very_hard,,嗨小问问。,extreme noise - word audible,2026-09-01 11:38:04,
+c61f0e41746053980ea9755d7e7babba,kw1,Nihao Wenwen,very_hard,,要好问问。,extreme noise - word audible,2026-09-01 11:38:05,
+c6b7e697c2e095531d8d07204821314e,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:08,hard
+c7ce1d4b7cd10368f3e3ba7be09d252c,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:09,hard
+c7dcd01b8c2faa038a84f48c767fec69,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:11,
+c80e543b936493155773a50889145496,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:13,hard
+c85ac8ede7fad7029fd11959d6baffd4,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:16,hard
+c98db33c2c53a86249f84969feb49904,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:19,
+caa7bb53944d05c5b4beef25263e022d,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:38:21,
+cb828cb749c42a298b5f56d12ea502d0,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:23,
+cc6dbcbbb3c83573cfee4a9736edab12,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:25,hard
+cd569e0ce4229c95de8bd507ff8a6800,kw1,Nihao Wenwen,very_hard,,你怎么会你生气?,ok,2026-09-01 11:38:29,ok
+cdd310ae495ce82c5864e0d10fc33e7c,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:38:30,ok
+ce2449971f0e0034f2fa148805bfae73,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:32,hard
+ce5c2226adf833561eee38d96294057d,kw1,Nihao Wenwen,very_hard,,一点一号的帮我带一点点。,extreme noise - word audible,2026-09-01 11:38:35,
+ce8228255f8071051ed805db784a3a98,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:38:37,ok
+cea4295a77ac4706c1934bb1c19111d3,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:39,
+ceb2d96319e709c8e1ac891ab4ac0cfb,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:42,
+ced8b0cb273b6c33ab497a7ad94b7714,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:44,hard
+cf7b885a944082d297345392910ab5f1,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:46,
+d02b8652036b522a7404eb7d224b2407,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:48,
+d14bbccb485d9a4e45ecfb6e571072b9,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:50,
+d14dd63303133f4174a3aa0dbc6f0001,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:38:53,
+d16f8f35fd4d8379fdca2e177bbd9e3d,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:38:55,hard
+d1759e72e31a76bc8c07a39735af8627,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:38:58,ok
+d34229690884e7190ca62ff63e34e9d2,kw1,Nihao Wenwen,very_hard,,你还在吗?,extreme noise - word audible,2026-09-01 11:39:00,
+d38fe8185df6303bb6d9e405f8616bea,kw1,Nihao Wenwen,very_hard,,你还好问问。,extreme noise - word audible,2026-09-01 11:39:02,
+d3b88d3359f11e3fbeffdb2b4abd72a9,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:39:04,hard
+d3da0fadb85bf2bdd3beb375d1bc27e1,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:06,
+d473dfc54e798fffe8e308b8a548f1cb,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:08,
+d5ab15a0029abd7f1845e50b8656c319,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:39:11,hard
+d6f1b8af571e4969807f5cab370139c9,kw1,Nihao Wenwen,very_hard,,你怎么问问。,extreme noise - word audible,2026-09-01 11:39:13,
+d7771ef31c3d439b65bf1a6bbc5bcc9e,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:15,
+d924e858699ddb0d167c3beab6bcb544,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:17,
+d92ca0c2947606033883127dff2f4938,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:18,
+d92cb5ebbd86873f9b4e8c00977bab34,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:39:20,
+da05f69c2a7884201ae74bef8b34477f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:22,
+da363484d4ce2ecc4dae0d8bfe9b79b0,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:24,
+da4f246dfd72dce6d3523d5cf78a4d32,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:26,
+db61515542f940b8a6581dd11961e9df,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:28,
+dc89dc57dbafe37554debbc6670e1c76,kw1,Nihao Wenwen,very_hard,,我好问。我好问。,extreme noise - word audible,2026-09-01 11:39:30,
+dd032b1e9556d93d20b0ff84d9adf8f0,kw1,Nihao Wenwen,very_hard,,"她说你还好问,是男的家。",extreme noise - word audible,2026-09-01 11:39:33,
+ddaec5ff83a8d0e637c4ad5f1154d859,kw1,Nihao Wenwen,very_hard,,好问。,extreme noise - word audible,2026-09-01 11:39:34,
+de3d7073128bbb5fa7db8ce7c928bd97,kw1,Nihao Wenwen,very_hard,,,incomplete utterance,2026-09-01 11:39:38,
+de4aad0e4a60921ab117f1701c5dd589,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:39:42,hard
+de780f8478ddafb05ceac02fee48b924,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:44,
+de7dbcfac431a84c270229791f94824e,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:51,
+de8d810fa28514b3fb701c96824e9afa,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:53,
+df1be0e35252998e610b33de952edd1e,kw1,Nihao Wenwen,very_hard,,真是好问你们。,extreme noise - word audible,2026-09-01 11:39:55,
+df4b72938b74fa70a96907e6c840a3b9,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:39:58,
+e7365b39f30ae430d312ff5bd562a98f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:00,
+e7d67bcaf5cc90f55a865393f320b204,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:40:03,hard
+e7fa35ae4073b8ee3966bbf6fb79b743,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:04,
+e85b1cd0e9ef197a8b3f068c9f3269f7,kw1,Nihao Wenwen,very_hard,,。。。。。。。。,extreme noise - word audible,2026-09-01 11:40:07,
+e8d8a3c0595ada012faa3e84f01a3a50,kw1,Nihao Wenwen,very_hard,,什么都拉不住。,extreme noise - word audible,2026-09-01 11:40:08,
+e8dd28de044f933339b8c5d85f8266d7,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:10,
+ecb407e12ad99701f66abe27884541fb,kw1,Nihao Wenwen,very_hard,,请早点好问。,extreme noise - word audible,2026-09-01 11:40:12,
+ecfcf02a03a98535555176ce1d036308,kw1,Nihao Wenwen,very_hard,,"啊,我给你。",extreme noise - word audible,2026-09-01 11:40:14,
+edfcdd3150d017316268aea5b84d2c85,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:40:16,hard
+eec6ab0407404ad44e6a32c5785e8a29,kw1,Nihao Wenwen,very_hard,,乌嘉宝乌特意人读乌格的Bgydical,extreme noise - word audible,2026-09-01 11:40:18,
+eedaf0f3c6bfce90c1fe10e3b00f350f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:20,
+ef62e822dd15c2f24f1e1a9d0db2de98,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:22,
+f05d40106e79e06bb75879ea80b29c7f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:24,
+f0797c1f5937dc93737716c04cee8981,kw1,Nihao Wenwen,very_hard,,"请问问,请问问。",extreme noise - word audible,2026-09-01 11:40:26,
+f1520447a3803f1092dbc851b1893640,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:28,
+f215ea2a80d66149af7427b01798c280,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:40:30,hard
+f29aacf51bb9f3c1290500f5485734e7,kw1,Nihao Wenwen,very_hard,,好问问问问。,extreme noise - word audible,2026-09-01 11:40:32,
+f53692fed45c6a7e7d8df2de5e394e78,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:34,
+f545b3691f875a1e961d17971b690ada,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:36,
+f5e626f2a5704f5348a28763ebb748cc,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:38,
+f69a14d9a5bc448f211e2c1d3526a423,kw1,Nihao Wenwen,very_hard,,请问问问问。,extreme noise - word audible,2026-09-01 11:40:40,
+f7114d6a9010bf3fbffe18651ec231ae,kw1,Nihao Wenwen,very_hard,,乖乖!,extreme noise - word audible,2026-09-01 11:40:42,
+f91803fdb45d30ab4ac8e43614db6a8a,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:40:45,hard
+f92dc9e9a40b4ad13f27015b4587605f,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:40:48,hard
+f9676d89f3ec7b99f221a81dc4a3b3f8,kw1,Nihao Wenwen,very_hard,,,hard,2026-09-01 11:40:51,hard
+f9bb990174041d8d09082cdc619cf51f,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:53,
+fb610ac9e5e5752613b855eb73d03ac7,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:55,
+fbaac2116f28e3770888e61bccb96f64,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:40:57,
+fcdd8a42a1376eff7058224ece6126ac,kw1,Nihao Wenwen,very_hard,,请问问问问。,extreme noise - word audible,2026-09-01 11:41:00,
+fde060611e617eeac90bb6bdae92cd03,kw1,Nihao Wenwen,very_hard,,,extreme noise - word audible,2026-09-01 11:41:02,
+fde9008a38bc7be14e3dae1ae9d6925e,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:41:05,ok
+fec71281f628f496665cb598d41ba40e,kw1,Nihao Wenwen,very_hard,,嗨小问。,extreme noise - word audible,2026-09-01 11:41:08,
+fee36ffb2390c20a9d98509124d00f88,kw1,Nihao Wenwen,very_hard,,"你好,我问。",hard,2026-09-01 11:41:12,hard
+ff476de4e75fe0a79d34f1290d40fb94,kw1,Nihao Wenwen,very_hard,,,ok,2026-09-01 11:41:14,ok
