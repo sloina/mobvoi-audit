@@ -8,7 +8,7 @@ material for an ICASSP 2027 submission:
 > submitted to ICASSP 2027.
 
 The code accompanying the paper is at
-<https://github.com/sloina/wake-word-spotting-context-enriched-heads>.
+<https://github.com/sloina/context-enriched-heads>.
 
 The audit covers the positive utterances of both wake words --
 **kw0 = "Hi Xiaowen"** and **kw1 = "Nihao Wenwen"** -- in the test
