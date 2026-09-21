@@ -21,13 +21,18 @@ OpenSLR SLR87 under its own license. This repository contains only
 utterance-ID lists, label annotations, and the scripts used to produce
 them.
 
-Note on paper vs.\ census figures: the paper reports the flagged-stage
-audit (167 mislabeled, 13 ultra-hard, 449 very-hard test positives),
-which defines the cleaning levels of its Table 2 and is a lower bound.
-The full census released here subsequently found additional problematic
-utterances beyond the automatically flagged set.
+Note on the audit stages: The paper reports the flagged-stage audit
+(167 mislabeled, 13 ultra-hard, and 449 very-hard test positives).
+These annotations define the cleaning levels in Table 2, and the
+reported counts are lower bounds on the corresponding counts over the
+complete test set. The full census, described in the paper as ongoing,
+has since been completed and is released here. It identified
+additional problematic utterances beyond the automatically flagged set.
 
 ## Files
+
+Most users only need the two `full_*_audit_with_round2.csv` census
+files; the remaining CSV files document the earlier audit stages.
 
 | File | Description |
 |---|---|
@@ -85,6 +90,21 @@ flagged-stage rounds, all five labels were assigned throughout.
    census of the dev positives matching steps 4-5
    (`full_dev_audit_with_round2.csv`).
 
+## Running the scripts
+
+Requirements: Python 3.9+, [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+(for `whisper_flagging.py`), and ffmpeg/ffplay on the PATH (for
+`audit_listen.py`; on Windows the tool falls back to winsound). The
+audio itself must be obtained separately from OpenSLR SLR87.
+
+```
+python whisper_flagging.py --positives_json p_test.json --wav_dir wavs/ --out flags_test.csv
+python audit_listen.py --data_list data.list --wav_dir wavs/ --out verdicts.csv
+```
+
+Both scripts are resume-aware: rerunning skips work already recorded in
+the output CSV.
+
 ## Citation
 
 If you use these annotations, please cite:
@@ -101,6 +121,6 @@ A full citation will be added after the review process.
 ## License
 
 - **Code** (`*.py`): MIT License (see `LICENSE`).
-- **Annotations** (`*.csv`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Annotations** (`*.csv`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE-ANNOTATIONS`).
 - The **audio and original metadata** of Mobvoi Hotwords are *not*
   included and remain subject to the OpenSLR SLR87 license terms.
